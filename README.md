@@ -12,6 +12,8 @@ de la asignatura PDS.
 1. Tema 1: Introducción
    * [Transparencias](teoria/transparencias/01-introduccion.pdf)
    * [Apuntes](teoria/apuntes/introduccion.pdf)
+2. Tema 2: Domain-Driven Design
+   * [Transparencias](teoria/transparencias/02-ddd.pdf)
 
 ### Sesiones
 
@@ -19,7 +21,15 @@ de la asignatura PDS.
     * [Presentación de la asignatura](teoria/transparencias/00-presentacion.pdf)
     * [Tema 1: Introducción - Transparencias](teoria/transparencias/01-introduccion.pdf) 
     * [Tema 1: Introducción - Apuntes](teoria/apuntes/introduccion.pdf) 
+2. Sesión 1 (Semana 26-enero)
+    * [Tema 2: Domain-Driven Design - Transparencias](teoria/transparencias/02-ddd.pdf) 
 
+## Bibliografía
+
+* DDD
+  * Domain-Driven Design: Tackling Complexity in the Heart of Software. 2003. Eric Evans. 
+  * Implementing Domain-Driven Design. 2013. Vernon Vaughn.
+  * Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy. 2021. Vladik Khononov
 
 ## Documentos oficiales
 
