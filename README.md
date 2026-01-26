@@ -14,6 +14,7 @@ de la asignatura PDS.
    * [Apuntes](teoria/apuntes/introduccion.pdf)
 2. Tema 2: Domain-Driven Design
    * [Transparencias](teoria/transparencias/02-ddd.pdf)
+   * [Apuntes](teoria/apuntes/ddd.pdf) 
 
 ### Sesiones
 
@@ -23,6 +24,7 @@ de la asignatura PDS.
     * [Tema 1: Introducción - Apuntes](teoria/apuntes/introduccion.pdf) 
 2. Sesión 2 (Semana 26-enero)
     * [Tema 2: Domain-Driven Design - Transparencias](teoria/transparencias/02-ddd.pdf) 
+    * [Tema 2: Domain-Driven Design - Apuntes](teoria/apuntes/ddd.pdf) 
 
 ## Prácticas
 
