@@ -3,7 +3,7 @@
 En este repositorio se publicará la información relativa al seguimiento
 de la asignatura PDS. 
 
-## Organización
+## Teoría
 
 ### Temas
 
@@ -21,8 +21,15 @@ de la asignatura PDS.
     * [Presentación de la asignatura](teoria/transparencias/00-presentacion.pdf)
     * [Tema 1: Introducción - Transparencias](teoria/transparencias/01-introduccion.pdf) 
     * [Tema 1: Introducción - Apuntes](teoria/apuntes/introduccion.pdf) 
-2. Sesión 1 (Semana 26-enero)
+2. Sesión 2 (Semana 26-enero)
     * [Tema 2: Domain-Driven Design - Transparencias](teoria/transparencias/02-ddd.pdf) 
+
+## Prácticas
+
+* Sesión 1 (Semana 26-enero)
+    * [Logging y SAST](practicas/transparencias/logging.pdf) 
+
+
 
 ## Bibliografía
 
