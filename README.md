@@ -30,6 +30,7 @@ de la asignatura PDS.
 
 * Sesión 1 (Semana 26-enero)
     * [Logging y SAST](practicas/transparencias/logging.pdf) 
+	* [Proyecto solución de logging](practicas/codigo/PracticaLog) 
 
 
 
