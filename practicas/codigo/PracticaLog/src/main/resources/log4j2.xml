@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+
+	<!-- Conguramos appenders, donde el log escribira -->
+	<Appenders>
+		<!-- Appender de consola, se escribira por la consola -->
+		<Console name="Console">
+			<PatternLayout pattern="[%d{HH:mm:ss}] [%level] %logger - %msg%n" />
+		</Console>
+
+		<!-- Apender de fichero, esta configuracion es obligatoria para entornos de produccion -->
+		<File name="FileLogger" fileName="logs/app.log" append="true">
+			<PatternLayout pattern="[%d{yyyy-MM-dd HH:mm:ss}] [%level] %logger - %msg%n" />
+		</File>
+
+	</Appenders>
+
+	<Loggers>
+		<!-- Log general -->
+		<!-- Damos de alta los appenders que queremos usar -->
+		<Root level="DEBUG">
+			<!-- Appender de consola -->
+			<AppenderRef ref="Console" />
+			<!-- Appender de fichero -->
+			<AppenderRef ref="FileLogger" />
+		</Root>
+
+		<!-- Log sobre "umu.pds.trace" -->
+		<Logger name="umu.pds.trace" level="TRACE" additivity="false">
+			<!-- Appender de consola -->
+			<AppenderRef ref="Console" />
+		</Logger>
+	</Loggers>
+
+</Configuration>
