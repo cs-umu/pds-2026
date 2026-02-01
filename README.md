@@ -29,9 +29,12 @@ de la asignatura PDS.
 ## Prácticas
 
 * Sesión 1 (Semana 26-enero)
-    * [Logging y SAST](practicas/transparencias/logging.pdf) 
-	* [Proyecto solución de logging](practicas/codigo/PracticaLog) 
-
+  * [Logging y SAST](practicas/transparencias/logging.pdf) 
+  * [Proyecto solución de logging](practicas/codigo/PracticaLog) 
+* Sesión 2 (Semana 2-febrero)
+  * Seminario de ejercicios sobre DDD
+  * [Ejemplo resuelto - Préstamo de libros](practicas/ejercicios/ejemplo-prestamo-libros/) 
+  * [Ejercicio - Vigilancias de examen](practicas/ejercicios/vigilancias-examen/) 
 
 
 ## Bibliografía
