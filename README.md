@@ -13,7 +13,9 @@ de la asignatura PDS.
    * [Transparencias](teoria/transparencias/01-introduccion.pdf)
    * [Apuntes](teoria/apuntes/introduccion.pdf)
 2. Tema 2: Domain-Driven Design
-   * [Transparencias](teoria/transparencias/02-ddd.pdf)
+   * [Transparencias](teoria/transparencias/02-ddd.pdf) (actualizadas 02/feb/26)
+   * [Ejemplo plataforma idiomas](teoria/transparencias/02b-ejemplo-duolingo.pdf) 
+   * [Ejemplo suscripciones](teoria/transparencias/02c-ejemplo-suscripciones.pdf)    
    * [Apuntes](teoria/apuntes/ddd.pdf) 
 
 ### Sesiones
@@ -25,6 +27,10 @@ de la asignatura PDS.
 2. Sesión 2 (Semana 26-enero)
     * [Tema 2: Domain-Driven Design - Transparencias](teoria/transparencias/02-ddd.pdf) 
     * [Tema 2: Domain-Driven Design - Apuntes](teoria/apuntes/ddd.pdf) 
+2. Sesión 3 (Semana 02-febrero)
+    * [Tema 2: Domain-Driven Design - Transparencias](teoria/transparencias/02-ddd.pdf) (actualizadas 02/feb/26)
+    * [Tema 2: Domain-Driven Design - Ejemplo plataforma idiomas](teoria/transparencias/02b-ejemplo-duolingo.pdf) 
+    * [Tema 2: Domain-Driven Design - Ejemplo suscripciones](teoria/transparencias/02c-ejemplo-suscripciones.pdf) 
 
 ## Prácticas
 
