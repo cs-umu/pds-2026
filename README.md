@@ -42,7 +42,7 @@ de la asignatura PDS.
   * Seminario de ejercicios sobre DDD
   * [Ejemplo resuelto - Préstamo de libros](practicas/ejercicios/ejemplo-prestamo-libros/) 
   * [Ejercicio - Vigilancias de examen](practicas/ejercicios/vigilancias-examen/) 
-
+  * [Solución - Vigilancias de examen](practicas/ejercicios/vigilancias-examen/vigilancias-solucion-propuesta.pdf) 
 
 ## Bibliografía
 
