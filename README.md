@@ -14,7 +14,8 @@ de la asignatura PDS.
    * [Apuntes](teoria/apuntes/introduccion.pdf)
 2. Tema 2: Domain-Driven Design
    * [Transparencias](teoria/transparencias/02-ddd.pdf) (actualizadas 02/feb/26)
-   * [Ejemplo plataforma idiomas](teoria/transparencias/02b-ejemplo-duolingo.pdf) 
+   * [Ejemplo plataforma de idiomas](teoria/transparencias/02b-ejemplo-duolingo.pdf) 
+   * [Código de ejemplo - plataforma de idiomas](teoria/ejemplos/ddd-duolingo) 
    * [Ejemplo suscripciones](teoria/transparencias/02c-ejemplo-suscripciones.pdf)    
    * [Apuntes](teoria/apuntes/ddd.pdf) 
 
