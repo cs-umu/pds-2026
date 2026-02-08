@@ -43,6 +43,10 @@ de la asignatura PDS.
   * [Ejemplo resuelto - Préstamo de libros](practicas/ejercicios/ejemplo-prestamo-libros/) 
   * [Ejercicio - Vigilancias de examen](practicas/ejercicios/vigilancias-examen/) 
   * [Solución - Vigilancias de examen](practicas/ejercicios/vigilancias-examen/vigilancias-solucion-propuesta.pdf) 
+* Sesión 3 (Semana 9-febrero)
+  * Seminario de ejercicios sobre DDD
+  * [Ejercicio - Aeródromo](practicas/ejercicios/aerodromo/) 
+
 
 ## Bibliografía
 
