@@ -18,7 +18,9 @@ de la asignatura PDS.
    * [Código de ejemplo - plataforma de idiomas](teoria/ejemplos/ddd-duolingo) 
    * [Ejemplo suscripciones](teoria/transparencias/02c-ejemplo-suscripciones.pdf)    
    * [Apuntes](teoria/apuntes/ddd.pdf) 
-
+2. Tema 3: Arquitectura del software
+   * [Transparencias - Arquitectura Hexagonal](teoria/transparencias/03a-hexagonal.pdf)
+   
 ### Sesiones
 
 1. Sesión 1 (Semana 19-enero)
@@ -32,6 +34,9 @@ de la asignatura PDS.
     * [Tema 2: Domain-Driven Design - Transparencias](teoria/transparencias/02-ddd.pdf) (actualizadas 02/feb/26)
     * [Tema 2: Domain-Driven Design - Ejemplo plataforma idiomas](teoria/transparencias/02b-ejemplo-duolingo.pdf) 
     * [Tema 2: Domain-Driven Design - Ejemplo suscripciones](teoria/transparencias/02c-ejemplo-suscripciones.pdf) 
+3. Sesión 4 (Semana 09-febrero)
+    - El tema 3 sobre Arquitectura del Software se dará dividirá en tres bloques. Se adelanta a esta semana el bloque de Arquitectura Hexagonal.
+    * [Tema 3: Arquitectura Hexagonal - Transparencias](teoria/transparencias/03a-hexagonal.pdf)
 
 ## Prácticas
 
