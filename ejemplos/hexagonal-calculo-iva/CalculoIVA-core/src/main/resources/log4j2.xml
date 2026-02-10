@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+
+	<!-- Conguramos appenders, donde el log escribira -->
+	<Appenders>
+		<!-- Appender de consola, se escribira por la consola -->
+		<Console name="Console">
+			<PatternLayout pattern="[%d{HH:mm:ss}] [%level] %logger - %msg%n" />
+		</Console>
+
+	</Appenders>
+
+	<Loggers>
+		<!-- Log general -->
+		<Root level="DEBUG">
+			<!-- Appender de consola -->
+			<AppenderRef ref="Console" />
+		</Root>
+
+	</Loggers>
+
+</Configuration>

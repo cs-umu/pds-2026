@@ -21,6 +21,7 @@ de la asignatura PDS.
 2. Tema 3: Arquitectura del software
    * [Transparencias - Arquitectura Hexagonal](teoria/transparencias/03a-hexagonal.pdf)
    * [Apuntes](teoria/apuntes/arquitectura.pdf) - Incluye versión preliminar de Arquitectura Hexagonal 
+   * [Ejemplo de arquitectura hexagonal](ejemplos/hexagonal-calculo-iva/)
    
 ### Sesiones
 
@@ -39,6 +40,8 @@ de la asignatura PDS.
     - El tema 3 sobre Arquitectura del Software se dará dividirá en tres bloques. Se adelanta a esta semana el bloque de Arquitectura Hexagonal.
     * [Tema 3: Arquitectura Hexagonal - Transparencias](teoria/transparencias/03a-hexagonal.pdf)
     * [Apuntes](teoria/apuntes/arquitectura.pdf) - Incluye versión preliminar de Arquitectura Hexagonal
+	* [Ejemplo de arquitectura hexagonal](ejemplos/hexagonal-calculo-iva/)
+	
 ## Prácticas
 
 * Sesión 1 (Semana 26-enero)

@@ -1,0 +1,13 @@
+package umu.pds.calculoiva.rest.application;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication(scanBasePackages = "umu.pds.calculoiva.rest")
+public class CalculoIvaRestApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(CalculoIvaRestApplication.class, args);
+	}
+
+}
