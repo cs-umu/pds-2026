@@ -71,6 +71,8 @@ La información del proyecto que debe realizarse en equipos de tres miembros est
   * Domain-Driven Design: Tackling Complexity in the Heart of Software. 2003. Eric Evans. 
   * Implementing Domain-Driven Design. 2013. Vernon Vaughn.
   * Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy. 2021. Vladik Khononov
+* Arquitectura Hexagonal
+  * Hexagonal Architecture Explained. 2025. Alistair Cockburn y Juan Manuel Garrido Paz. 
 
 ## Documentos oficiales
 
