@@ -56,6 +56,9 @@ de la asignatura PDS.
   * Seminario de ejercicios sobre DDD
   * [Ejercicio - Aeródromo](practicas/ejercicios/aerodromo/) 
 
+## Proyecto de prácticas
+
+La información del proyecto que debe realizarse en equipos de tres miembros está disponible [aquí](proyecto).
 
 ## Bibliografía
 
