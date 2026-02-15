@@ -58,7 +58,7 @@ de la asignatura PDS.
 * Sesión 4 (Semana 16-febrero)
   * Práctica: Introducción a Spring Boot
   * [Transparencias sobre SpringBoot](practicas/transparencias/SpringBoot.pdf)
-  * [Enunciado y recursos del entregable](practicas/boletines/springboot/) 
+  * [Enunciado y recursos del entregable](practicas/boletines/springboot-1/) 
   * [Enlace a la tarea](https://aulavirtual.um.es/portal/site/1910_G_2025_N_N/tool/cbcb61b4-87ed-48ef-9b93-18001f58894a)
 
 ## Proyecto de prácticas
