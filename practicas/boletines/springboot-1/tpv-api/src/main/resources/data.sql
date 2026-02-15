@@ -1,0 +1,35 @@
+--Este fichero inicializa los datos del esquema 
+INSERT INTO TPV.PRODUCTO (codigo, descripcion, cantidad, precio) VALUES
+(0101, 'Manzana', 50, 1.20),
+(0102, 'Plátano', 40, 0.80),
+(0103, 'Naranja', 60, 1.50),
+(0104, 'Pera', 35, 1.10),
+(0105, 'Kiwi', 20, 2.30),
+(0106, 'Sandía', 15, 4.50),
+(0107, 'Melón', 18, 3.80),
+(0108, 'Fresa', 25, 2.01),
+(0109, 'Cereza', 30, 3.20),
+(0110, 'Uva', 22, 2.40),
+(0111, 'Mango', 28, 2.90),
+(0112, 'Papaya', 17, 3.50),
+(0113, 'Coco', 10, 4.01),
+(0114, 'Limón', 45, 0.70),
+(0115, 'Mandarina', 38, 1.40),
+(0116, 'Pomelo', 26, 1.80),
+(0117, 'Aguacate', 12, 3.70),
+(0118, 'Granada', 14, 2.60),
+(0119, 'Higo', 16, 2.80),
+(0120, 'Melocotón', 32, 1.90),
+(0121, 'Albaricoque', 27, 2.10),
+(0122, 'Ciruela', 23, 1.60),
+(0123, 'Arándano', 19, 3.10),
+(0124, 'Frambuesa', 21, 3.40),
+(0125, 'Mora', 24, 2.70),
+(0126, 'Caqui', 11, 2.20),
+(0127, 'Chirimoya', 13, 3.90),
+(0128, 'Maracuyá', 9, 4.20),
+(0129, 'Guayaba', 8, 3.60),
+(0130, 'Lichi', 7, 4.80);
+
+ALTER TABLE TPV.PRODUCTO ALTER COLUMN codigo RESTART WITH 31;
+
