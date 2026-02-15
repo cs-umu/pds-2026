@@ -55,6 +55,7 @@ de la asignatura PDS.
 * Sesión 3 (Semana 9-febrero)
   * Seminario de ejercicios sobre DDD
   * [Ejercicio - Aeródromo](practicas/ejercicios/aerodromo/) 
+  * [Solución - Aeródromo](practicas/ejercicios/aerodromo/aerodromo-solucion-propuesta.pdf) 
 * Sesión 4 (Semana 16-febrero)
   * Práctica: Introducción a Spring Boot
   * [Transparencias sobre SpringBoot](practicas/transparencias/SpringBoot.pdf)
