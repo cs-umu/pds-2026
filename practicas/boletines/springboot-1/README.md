@@ -251,7 +251,7 @@ La anotación `@Service` es equivalente a `@Component` en cuanto a que declara u
 </div>
 
 
-### 2.2 <summary><strong>🟢 Ejercicio</strong></summary>: Implementar otro repositorio
+### 2.2 <strong>🟢 Ejercicio</strong>: Implementar otro repositorio
 
 Con el objetivo de practicar la inyección de dependencias,
 crea una nueva implementación de `ProductosRepository` que almacene los productos en un `HashMap` en memoria, sin usar JPA ni base de datos.
