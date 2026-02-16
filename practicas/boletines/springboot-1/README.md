@@ -228,20 +228,10 @@ En esta parte verás cómo la arquitectura hexagonal permite cambiar la implemen
 
 Actualmente, la inyección de dependencias funciona así:
 
-1. `StockService` necesita un `ProductosRepository` (interfaz definida en `core.ports.output`) en su constructor. **`StockService` no está anotado con `@Service`** (es una clase Java pura dentro del paquete `core`).
-2. La clase `Configuracion` (en el paquete `config`) está anotada con `@Configuration` y crea el bean de `StockService` mediante un método `@Bean`:
-```java
-@Configuration
-public class Configuracion {
-    @Bean
-    public StockService bindStockService(ProductosRepository productoPort) {
-        return new StockService(productoPort);
-    }
-}
-```
+1. `StockService` se ha anotado con `@Service` para indicar que es un servicio de aplicación.
    Spring le pasa automáticamente la implementación de `ProductosRepository` que encuentre en el contexto.
-3. Spring detecta que `ProductoRepository` (en el paquete `adapters.jpa`) está anotado con `@Component` e implementa `ProductosRepository`.
-4. Spring inyecta automáticamente la instancia de `ProductoRepository` al método `@Bean` de `Configuracion`, que a su vez la pasa a `StockService`.
+2. Spring detecta que `ProductoRepository` (en el paquete `adapters.jpa`) está anotado con `@Component` e implementa `ProductosRepository`.
+3. Spring inyecta automáticamente la instancia de `ProductoRepository` al constructor de `StockService`.
 
 De esta forma, el servicio de aplicación (`StockService`) **nunca sabe** que los datos se guardan con JPA/H2. Solo conoce la interfaz `ProductosRepository`. Además, al no tener anotaciones de Spring, el paquete `core` completo es independiente del framework.
 
