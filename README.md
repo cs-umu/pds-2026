@@ -20,6 +20,7 @@ de la asignatura PDS.
    * [Apuntes](teoria/apuntes/ddd.pdf) 
 2. Tema 3: Arquitectura del software
    * [Transparencias - Arquitectura Hexagonal](teoria/transparencias/03a-hexagonal.pdf)
+   * [Transparencias - Arquitectura REST](teoria/transparencias/03b-arquitectura-rest.pdf)
    * [Apuntes](teoria/apuntes/arquitectura.pdf) - Incluye versión preliminar de Arquitectura Hexagonal 
    * [Ejemplo de arquitectura hexagonal](ejemplos/hexagonal-calculo-iva/)
    
@@ -32,16 +33,18 @@ de la asignatura PDS.
 2. Sesión 2 (Semana 26-enero)
     * [Tema 2: Domain-Driven Design - Transparencias](teoria/transparencias/02-ddd.pdf) 
     * [Tema 2: Domain-Driven Design - Apuntes](teoria/apuntes/ddd.pdf) 
-2. Sesión 3 (Semana 02-febrero)
+3. Sesión 3 (Semana 02-febrero)
     * [Tema 2: Domain-Driven Design - Transparencias](teoria/transparencias/02-ddd.pdf) (actualizadas 02/feb/26)
     * [Tema 2: Domain-Driven Design - Ejemplo plataforma idiomas](teoria/transparencias/02b-ejemplo-duolingo.pdf) 
     * [Tema 2: Domain-Driven Design - Ejemplo suscripciones](teoria/transparencias/02c-ejemplo-suscripciones.pdf) 
-3. Sesión 4 (Semana 09-febrero)
+4. Sesión 4 (Semana 09-febrero)
     - El tema 3 sobre Arquitectura del Software se dará dividirá en tres bloques. Se adelanta a esta semana el bloque de Arquitectura Hexagonal.
     * [Tema 3: Arquitectura Hexagonal - Transparencias](teoria/transparencias/03a-hexagonal.pdf)
     * [Apuntes](teoria/apuntes/arquitectura.pdf) - Incluye versión preliminar de Arquitectura Hexagonal
-	* [Ejemplo de arquitectura hexagonal](ejemplos/hexagonal-calculo-iva/)
-	
+    * [Ejemplo de arquitectura hexagonal](ejemplos/hexagonal-calculo-iva/)
+5. Sesión 5 (Semana 16-febrero)
+	  * [Tema 3: Arquitectura REST - Transparencias](teoria/transparencias/03b-arquitectura-rest.pdf)
+
 ## Prácticas
 
 * Sesión 1 (Semana 26-enero)
