@@ -82,6 +82,10 @@ La información del proyecto que debe realizarse en equipos de tres miembros est
   * Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy. 2021. Vladik Khononov
 * Arquitectura Hexagonal
   * Hexagonal Architecture Explained. 2025. Alistair Cockburn y Juan Manuel Garrido Paz. 
+* REST
+  * [The Little Book on REST Services. Kenneth Lange](https://www.kennethlange.com/books/The-Little-Book-on-REST-Services.pdf)
+  * [Thesis de Roy Fielding. 2000](https://roy.gbiv.com/pubs/dissertation/fielding_dissertation.pdf)
+
 
 ## Documentos oficiales
 
