@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.ButtonType?>
+<?import javafx.scene.control.DialogPane?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.FlowPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<DialogPane prefHeight="307.0" prefWidth="350" style="-fx-background-color: white;" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/21" fx:controller="tds.tpv.vista.DialogoControllerView">
+    
+    <!-- Contenido principal del diálogo -->
+    <content>
+        <VBox alignment="CENTER" spacing="15">
+            <padding>
+                <Insets bottom="20" left="20" right="20" top="20" />
+            </padding>
+
+            <!-- Imagen -->
+            <ImageView fitHeight="100" fitWidth="100">
+                <image>
+                    <!-- Usa una imagen de tu proyecto (por ejemplo, resources/imagen.png) -->
+                    <Image url="@../../imagenes/costo.png" />
+                </image>
+            </ImageView>
+
+            <!-- Texto descriptivo -->
+            <Label style="-fx-font-size: 14px; -fx-text-fill: #333;" text="Aplicación de prueba para la asignatura de TDS" wrapText="true" />
+        </VBox>
+    </content>
+
+    <!-- Botones del diálogo -->
+    <buttonTypes>
+        <ButtonType fx:constant="OK" />
+    </buttonTypes>
+
+   <header>
+      <FlowPane alignment="CENTER" prefHeight="61.0" prefWidth="350.0">
+         <children>
+            <Label text="Aplicación de miTienda">
+               <font>
+                  <Font name="System Bold" size="18.0" />
+               </font>
+            </Label>
+         </children>
+      </FlowPane>
+   </header>
+</DialogPane>

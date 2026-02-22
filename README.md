@@ -50,7 +50,7 @@ de la asignatura PDS.
 
 * Sesión 1 (Semana 26-enero)
   * [Logging y SAST](practicas/transparencias/logging.pdf) 
-  * [Proyecto solución de logging](practicas/codigo/PracticaLog) 
+  * [Proyecto solución de logging](practicas/ejemplos/PracticaLog) 
 * Sesión 2 (Semana 2-febrero)
   * Seminario de ejercicios sobre DDD
   * [Ejemplo resuelto - Préstamo de libros](practicas/ejercicios/ejemplo-prestamo-libros/) 
@@ -66,6 +66,9 @@ de la asignatura PDS.
   * [Enunciado y recursos del entregable](practicas/boletines/springboot-1/) 
   * [Tutorial rápido de Postman](practicas/tutorial/postman) 
   * [Enlace a la tarea](https://aulavirtual.um.es/portal/site/1910_G_2025_N_N/tool/cbcb61b4-87ed-48ef-9b93-18001f58894a)
+* Sesión 5 (Semana 23-febrero)
+  * Trabajo en el proyecto
+  * [Ejemplo de GUI con JavaFX y conexión REST](practicas/ejemplos/tpv) 
 
 ## Proyecto de prácticas
 

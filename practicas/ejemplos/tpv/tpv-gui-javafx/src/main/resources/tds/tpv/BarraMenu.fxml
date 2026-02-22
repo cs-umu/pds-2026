@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.RadioMenuItem?>
+<?import javafx.scene.control.ToggleGroup?>
+<?import javafx.scene.layout.BorderPane?>
+
+<BorderPane xmlns="http://javafx.com/javafx/25" xmlns:fx="http://javafx.com/fxml/1" fx:controller="tds.tpv.vista.BarraMenuControllerView">
+	<top>
+		<MenuBar fx:id="menu" BorderPane.alignment="CENTER">
+			<menus>
+				<Menu mnemonicParsing="false" text="Tienda">
+					<items>
+						<MenuItem mnemonicParsing="false" onAction="#irAStock" text="Stock Productos" />
+                  <RadioMenuItem mnemonicParsing="false" onAction="#activarRepositorioJson" selected="true" text="Repositorio Json">
+                     <toggleGroup>
+                        <ToggleGroup fx:id="repositorios" />
+                     </toggleGroup>
+                  </RadioMenuItem>
+                  <RadioMenuItem mnemonicParsing="false" onAction="#activarRepositorioRest" text="Repositorio Rest" toggleGroup="$repositorios" />
+						<MenuItem mnemonicParsing="false" onAction="#salir" text="Salir" />
+					</items>
+				</Menu>
+				<Menu mnemonicParsing="false" text="Ayuda">
+					<items>
+						<MenuItem mnemonicParsing="false" onAction="#abrirAcerca" text="Acerca de miTienda" />
+					</items>
+				</Menu>
+            <Menu fx:id="menuJson" mnemonicParsing="false" style="-fx-text-fill: blue;" text="Usando repositorio JSON">
+              <items>
+              </items>
+            </Menu>
+			</menus>
+		</MenuBar>
+	</top>
+</BorderPane>
