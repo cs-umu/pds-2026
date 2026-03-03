@@ -18,13 +18,14 @@ de la asignatura PDS.
    * [Código de ejemplo - plataforma de idiomas](teoria/ejemplos/ddd-duolingo) 
    * [Ejemplo suscripciones](teoria/transparencias/02c-ejemplo-suscripciones.pdf)    
    * [Apuntes](teoria/apuntes/ddd.pdf) 
-2. Tema 3: Arquitectura del software
+3. Tema 3: Arquitectura del software
    * [Transparencias - Arquitectura Hexagonal](teoria/transparencias/03a-hexagonal.pdf)
    * [Transparencias - Arquitectura REST](teoria/transparencias/03b-arquitectura-rest.pdf)
    * [Apuntes](teoria/apuntes/arquitectura.pdf) - Incluye Arquitectura Hexagonal y Arquitectura REST
    * [Ejemplo de arquitectura hexagonal](ejemplos/hexagonal-calculo-iva/)
-2. Tema 4: Verificación de software
+4. Tema 4: Verificación de software
    * [Tema 4: Pruebas de software - Transparencias](teoria/transparencias/04-pruebas.pdf)
+   * [Apuntes](teoria/apuntes/verificacion.pdf) - Incluye pruebas de software (borrador)
 
 ### Sesiones
 
@@ -46,12 +47,12 @@ de la asignatura PDS.
     * [Ejemplo de arquitectura hexagonal](ejemplos/hexagonal-calculo-iva/)
 5. Sesión 5 (Semana 16-febrero)
 	  * [Tema 3: Arquitectura REST - Transparencias](teoria/transparencias/03b-arquitectura-rest.pdf)
-    * [Apuntes](teoria/apuntes/arquitectura.pdf) - Incluye Arquitectura REST
+      * [Apuntes](teoria/apuntes/arquitectura.pdf) - Incluye Arquitectura REST
 6. Sesión 6 (Semana 24-febrero)
 	  * [Tema 4: Pruebas de software - Transparencias](teoria/transparencias/04-pruebas.pdf) (actualizadas 3/mar/26)
-6. Sesión 7 (Semana 3-marzo)
+7. Sesión 7 (Semana 3-marzo)
 	  * [Tema 4: Pruebas de software - Transparencias](teoria/transparencias/04-pruebas.pdf) (actualizadas 3/mar/26)
-
+      * [Apuntes](teoria/apuntes/verificacion.pdf) - Pruebas de software
 
 ## Prácticas
 
@@ -95,7 +96,8 @@ La información del proyecto que debe realizarse en equipos de tres miembros est
 * REST
   * [The Little Book on REST Services. Kenneth Lange](https://www.kennethlange.com/books/The-Little-Book-on-REST-Services.pdf)
   * [Thesis de Roy Fielding. 2000](https://roy.gbiv.com/pubs/dissertation/fielding_dissertation.pdf)
-
+* Pruebas de software
+  * Sethi, R. (2022). Software Engineering: Basic Principles and Best Practices. Cambridge University Press.
 
 ## Documentos oficiales
 
