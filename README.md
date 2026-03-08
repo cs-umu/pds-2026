@@ -80,6 +80,10 @@ de la asignatura PDS.
 * Sesión 6 (Semana 3-marzo)
   * Trabajo en el proyecto
   * [Ver uso de ArchUnit en ejemplo TPV](practicas/ejemplos/tpv) 
+* Sesión 7 (Semana 9-marzo)
+  * Práctica: Pruebas de software
+  * [Enunciado y recursos del entregable](practicas/boletines/pruebas/)
+  * [Enlace a la tarea](https://aulavirtual.um.es/portal/site/1910_G_2025_N_N/tool/cbcb61b4-87ed-48ef-9b93-18001f58894a)
 
 ## Proyecto de prácticas
 
