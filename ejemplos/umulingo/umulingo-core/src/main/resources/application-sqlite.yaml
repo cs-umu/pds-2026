@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    url: jdbc:sqlite:./data/umulingo.db
+    driver-class-name: org.sqlite.JDBC
+  jpa:
+    hibernate:
+      ddl-auto: update
+    database-platform: org.hibernate.community.dialect.SQLiteDialect
+  h2:
+    console:
+      enabled: false
