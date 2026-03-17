@@ -47,12 +47,15 @@ public class InscripcionServiceImplTest {
 		var usuario = usuarioService.registrarUsuario("j@um.es", "Jesús");
 		this.usuarioId = usuario.id();
 		
+		this.cursoId = "ingles-basico";
+		/*
 		var curso = cursoService.crearCurso("ingles-basico", "Inglés Básico");
 		this.cursoId = curso.id();
         cursoService.agregarPregunta(curso.id(), new PreguntaTestDTO(
                 "¿Cómo se dice 'gato' en inglés?",
                 List.of("Dog", "Cat", "Bird", "Fish"),
                 1));
+        */
 	}
 	
 	@Test

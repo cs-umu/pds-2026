@@ -5,6 +5,7 @@ import java.util.List;
 
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Entity;
+import jakarta.persistence.FetchType;
 import jakarta.persistence.Id;
 import jakarta.persistence.OneToMany;
 import pds.umulingo.domain.model.usuario.Email;
@@ -22,6 +23,7 @@ public class UsuarioEntity {
 	 * orphanRemoval porque Inscripción está subordinada a Usuario (agregación fuerte)
 	 */
 	@OneToMany(//mappedBy = "usuario",
+			fetch = FetchType.EAGER,
 			cascade = CascadeType.ALL,
 			orphanRemoval = true)
 	private List<InscripcionEntity> inscripciones;
