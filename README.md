@@ -97,6 +97,11 @@ de la asignatura PDS.
   * [Enlace a la tarea](https://aulavirtual.um.es/portal/site/1910_G_2025_N_N/tool/cbcb61b4-87ed-48ef-9b93-18001f58894a)
 * Sesión 9 (Semana 16-marzo)
   * Trabajo en el proyecto
+* Sesión 10 (Semana 23-marzo)
+  * Práctica: Persistencia (no hay entregable)
+  * [Transparencias sobre la práctica](practicas/transparencias/Persistencia.pdf) 
+  * [Enunciado y recursos](practicas/boletines/persistencia/)
+
   
 ## Proyecto de prácticas
 
