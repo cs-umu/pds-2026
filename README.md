@@ -23,13 +23,15 @@ de la asignatura PDS.
    * [Transparencias - Arquitectura REST](teoria/transparencias/03b-arquitectura-rest.pdf)
    * [Apuntes](teoria/apuntes/arquitectura.pdf) - Incluye Arquitectura Hexagonal y Arquitectura REST
    * [Ejemplo de arquitectura hexagonal](ejemplos/hexagonal-calculo-iva/)
-4. Tema 4: Verificación de software
+4. Tema 4: Verificación de software (I) - Pruebas
    * [Tema 4: Pruebas de software - Transparencias](teoria/transparencias/04-pruebas.pdf)
    * [Apuntes](teoria/apuntes/verificacion.pdf) - Incluye pruebas de software (borrador)
 5. Tema 5: Persistencia (mapeo objeto-relacional)
    * [Tema 5: Persistencia - Transparencias](teoria/transparencias/05-persistencia.pdf)
    * [Ejemplo JPA](ejemplos/persistencia-biblioteca/)
    * No hay apuntes de este tema
+6. Tema 6: Verificación de software (II) - Análisis estático
+   * [Tema 6: Análisis estático - Transparencias](teoria/transparencias/06-analisis-estatico.pdf)
 
 ### Sesiones
 
@@ -63,7 +65,10 @@ de la asignatura PDS.
 9. Sesión 9 (Semana 16-marzo): 
       * [Tema 5: Persistencia - Transparencias](teoria/transparencias/05-persistencia.pdf) (actualizadas 17/mar/26)
       * [Ejemplo UMULingo/Spring](ejemplos/umulingo/)
-  
+10. Sesión 10 (Semana 23-marzo): 
+      * [Tema 6: Análisis estático - Transparencias](teoria/transparencias/06-analisis-estatico.pdf)
+      * [Ejemplos](ejemplos/analisis-estatico/)
+
 ## Prácticas
 
 * Sesión 2 (Semana 26-enero)
