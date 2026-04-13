@@ -93,12 +93,13 @@ de la asignatura PDS.
   * [Enunciado y recursos del entregable](practicas/boletines/springboot-1/) 
   * [Tutorial rápido de Postman](practicas/tutorial/postman) 
   * [Enlace a la tarea](https://aulavirtual.um.es/portal/site/1910_G_2025_N_N/tool/cbcb61b4-87ed-48ef-9b93-18001f58894a)
+  * [Propuesta de solución (incluye también ArchUnit)](practicas/ejemplos/tpv-solucion)  (actualizado 13-abril)
 * Sesión 6 (Semana 23-febrero)
   * Trabajo en el proyecto
   * [Ejemplo de GUI con JavaFX y conexión REST](practicas/ejemplos/tpv) 
 * Sesión 7 (Semana 3-marzo)
   * Trabajo en el proyecto
-  * [Ver uso de ArchUnit en ejemplo TPV](practicas/ejemplos/tpv) 
+  * [Ver uso de ArchUnit en ejemplo TPV](practicas/ejemplos/tpv-solucion) 
 * Sesión 8 (Semana 9-marzo)
   * Práctica: Pruebas de software
   * [Transparencias sobre la práctica](practicas/transparencias/Pruebas.pdf) 

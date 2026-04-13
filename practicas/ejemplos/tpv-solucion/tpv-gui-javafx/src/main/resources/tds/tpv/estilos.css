@@ -1,0 +1,31 @@
+.boton-personalizado {
+	-fx-border-color: gray;
+	-fx-border-width: 1.0;
+	-fx-border-radius: 5.0;
+	-fx-background-radius: 5.0;
+	-fx-background-color: #32CD32;
+	-fx-text-fill: black;
+	-fx-font-size: 14.0px;
+}
+
+.boton-personalizado:hover {
+	-fx-background-color: #2EB82E; /* verde más oscuro al pasar el ratón */
+	-fx-border-color: darkgray;
+}
+
+.menu-azul{
+	  -fx-background-color: lightgreen;
+}
+
+.menu-azul .label{
+	-fx-text-fill: blue;
+}
+
+
+.menu-verde{
+	-fx-background-color: lightblue;
+}
+
+.menu-verde .label{
+	-fx-text-fill: green;
+}

@@ -1,0 +1,12 @@
+
+-- Este fichero inicializa el esquema
+
+CREATE SCHEMA IF NOT EXISTS TPV;
+
+CREATE TABLE IF NOT EXISTS TPV.PRODUCTO (
+    codigo BIGINT AUTO_INCREMENT PRIMARY KEY,
+    descripcion VARCHAR(255) NOT NULL,
+    cantidad INT NOT NULL,
+    precio DOUBLE NOT NULL,
+    CONSTRAINT PK_PRODUCTO PRIMARY KEY (codigo)
+);

@@ -1,0 +1,182 @@
+[
+  {
+    "codigo": "001",
+    "descripcion": "Manzana",
+    "cantidad": "50",
+    "precio": "1.20"
+  },
+  {
+    "codigo": "002",
+    "descripcion": "Plátano",
+    "cantidad": "40",
+    "precio": "0.80"
+  },
+  {
+    "codigo": "003",
+    "descripcion": "Naranja",
+    "cantidad": "60",
+    "precio": "1.50"
+  },
+  {
+    "codigo": "004",
+    "descripcion": "Pera",
+    "cantidad": "35",
+    "precio": "1.10"
+  },
+  {
+    "codigo": "005",
+    "descripcion": "Kiwi",
+    "cantidad": "20",
+    "precio": "2.30"
+  },
+  {
+    "codigo": "006",
+    "descripcion": "Sandía",
+    "cantidad": "15",
+    "precio": "4.50"
+  },
+  {
+    "codigo": "007",
+    "descripcion": "Melón",
+    "cantidad": "18",
+    "precio": "3.80"
+  },
+  {
+    "codigo": "008",
+    "descripcion": "Fresa",
+    "cantidad": "25",
+    "precio": "2.00"
+  },
+  {
+    "codigo": "009",
+    "descripcion": "Cereza",
+    "cantidad": "30",
+    "precio": "3.20"
+  },
+  {
+    "codigo": "010",
+    "descripcion": "Uva",
+    "cantidad": "22",
+    "precio": "2.40"
+  },
+  {
+    "codigo": "011",
+    "descripcion": "Mango",
+    "cantidad": "28",
+    "precio": "2.90"
+  },
+  {
+    "codigo": "012",
+    "descripcion": "Papaya",
+    "cantidad": "17",
+    "precio": "3.50"
+  },
+  {
+    "codigo": "013",
+    "descripcion": "Coco",
+    "cantidad": "10",
+    "precio": "4.00"
+  },
+  {
+    "codigo": "014",
+    "descripcion": "Limón",
+    "cantidad": "45",
+    "precio": "0.70"
+  },
+  {
+    "codigo": "015",
+    "descripcion": "Mandarina",
+    "cantidad": "38",
+    "precio": "1.40"
+  },
+  {
+    "codigo": "016",
+    "descripcion": "Pomelo",
+    "cantidad": "26",
+    "precio": "1.80"
+  },
+  {
+    "codigo": "017",
+    "descripcion": "Aguacate",
+    "cantidad": "12",
+    "precio": "3.70"
+  },
+  {
+    "codigo": "018",
+    "descripcion": "Granada",
+    "cantidad": "14",
+    "precio": "2.60"
+  },
+  {
+    "codigo": "019",
+    "descripcion": "Higo",
+    "cantidad": "16",
+    "precio": "2.80"
+  },
+  {
+    "codigo": "020",
+    "descripcion": "Melocotón",
+    "cantidad": "32",
+    "precio": "1.90"
+  },
+  {
+    "codigo": "021",
+    "descripcion": "Albaricoque",
+    "cantidad": "27",
+    "precio": "2.10"
+  },
+  {
+    "codigo": "022",
+    "descripcion": "Ciruela",
+    "cantidad": "23",
+    "precio": "1.60"
+  },
+  {
+    "codigo": "023",
+    "descripcion": "Arándano",
+    "cantidad": "19",
+    "precio": "3.10"
+  },
+  {
+    "codigo": "024",
+    "descripcion": "Frambuesa",
+    "cantidad": "21",
+    "precio": "3.40"
+  },
+  {
+    "codigo": "025",
+    "descripcion": "Mora",
+    "cantidad": "24",
+    "precio": "2.70"
+  },
+  {
+    "codigo": "026",
+    "descripcion": "Caqui",
+    "cantidad": "11",
+    "precio": "2.20"
+  },
+  {
+    "codigo": "027",
+    "descripcion": "Chirimoya",
+    "cantidad": "13",
+    "precio": "3.90"
+  },
+  {
+    "codigo": "028",
+    "descripcion": "Maracuyá",
+    "cantidad": "9",
+    "precio": "4.20"
+  },
+  {
+    "codigo": "029",
+    "descripcion": "Guayaba",
+    "cantidad": "8",
+    "precio": "3.60"
+  },
+  {
+    "codigo": "030",
+    "descripcion": "Lichi",
+    "cantidad": "7",
+    "precio": "4.80"
+  }
+]

@@ -1,0 +1,3 @@
+Usar la estructura de
+
+https://medium.com/@juannegrin/building-a-restful-api-with-spring-boot-integrating-ddd-and-hexagonal-architecture-df50fe24a1ff
