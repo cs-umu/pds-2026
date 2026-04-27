@@ -23,7 +23,8 @@ de la asignatura PDS.
    * [Transparencias - Arquitectura REST](teoria/transparencias/03b-arquitectura-rest.pdf)
    * [Transparencias - Estilos arquitectónicos (borrador)](teoria/transparencias/03c-estilos-arquitectonicos.pdf)
    * [Apuntes](teoria/apuntes/arquitectura.pdf) - Incluye Arquitectura Hexagonal y Arquitectura REST
-   * [Ejemplo de arquitectura hexagonal](ejemplos/hexagonal-calculo-iva/)
+   * [Ejemplo simple de arquitectura hexagonal](ejemplos/hexagonal-calculo-iva/)
+   * [Ejemplo simple de arquitectura microkernel](ejemplos/arquitectura-microkernel/)
 4. Tema 4: Verificación de software (I) - Pruebas
    * [Tema 4: Pruebas de software - Transparencias](teoria/transparencias/04-pruebas.pdf)
    * [Apuntes](teoria/apuntes/verificacion.pdf) - Actualizado 14-abril
