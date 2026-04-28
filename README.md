@@ -35,6 +35,8 @@ de la asignatura PDS.
 6. Tema 6: Verificación de software (II) - Análisis estático
    * [Tema 6: Análisis estático - Transparencias](teoria/transparencias/06-analisis-estatico.pdf)
    * [Apuntes](teoria/apuntes/verificacion.pdf) - - Actualizado 14-abril
+7. Repaso
+   * [Preguntas de repaso](teoria/repaso-teoria-tipo-test.pdf)
 
 ### Sesiones
 
