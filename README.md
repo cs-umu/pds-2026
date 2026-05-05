@@ -141,6 +141,10 @@ En [Ejemplo UMULingo/Spring](ejemplos/umulingo/) está disponible un ejemplo com
   * [Thesis de Roy Fielding. 2000](https://roy.gbiv.com/pubs/dissertation/fielding_dissertation.pdf)
 * Pruebas de software
   * Sethi, R. (2022). Software Engineering: Basic Principles and Best Practices. Cambridge University Press.
+* Arquitectural del Software
+  * Sethi, R. (2022). Software Engineering: Basic Principles and Best Practices. Cambridge University Press.
+  * Software Architecture Patterns. Mark Richards.
+  * [Software Engineering. A Modern Approach. 2024](https://softengbook.org/chapter7)
 
 ## Documentos oficiales
 
