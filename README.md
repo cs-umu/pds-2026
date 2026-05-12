@@ -37,6 +37,7 @@ de la asignatura PDS.
    * [Apuntes](teoria/apuntes/verificacion.pdf) - - Actualizado 14-abril
 7. Repaso
    * [Preguntas de repaso](teoria/repaso-teoria-tipo-test.pdf)
+   * [Respuestas a las preguntas de repaso](teoria/transparencias/respuestas-tipo-test.md)
 
 ### Sesiones
 
